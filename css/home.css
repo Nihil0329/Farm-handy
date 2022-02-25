@@ -1,0 +1,64 @@
+.backpic{
+  background-image: url(image/home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  font-family: "Times New Roman";
+  text-align: center;
+}
+h3{
+  font-family: sans-serif;
+  color: whitesmoke;
+  text-align: center;
+}
+h4{
+  color: whitesmoke;
+  text-align: right;
+}
+ul {
+  list-style-type: none;
+  margin: -8px;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.listyle{
+  font-family: "broadway";
+}
+
+li a:hover {
+  background-color: #111;
+}
+.titlebox{
+  margin: 50px 40px;
+  padding : 0 px 10px;
+}
+.button{      
+  width: 70%;  
+  background-color: orangered; 
+  padding :  10px 40px;    
+  border: black;   
+  cursor: pointer;   
+}    
+.but{
+  margin: 150px 600px;
+}
+button:hover {   
+  opacity: 0.7;   
+}   
+.drop{
+  text-align: left;
+}

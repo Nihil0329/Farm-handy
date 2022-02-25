@@ -1,0 +1,49 @@
+.backpic{
+  background-image: url(image/status.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul {
+  list-style-type: none;
+  margin: -8px;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+h2{
+  padding : 50px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.listyle{
+  font-family: "broadway";
+}
+
+li a:hover {
+  background-color: #111;
+}
+.styleit{
+  margin : 0px 10px;
+  padding: 150px 10px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+  background-color: whitesmoke;
+}
