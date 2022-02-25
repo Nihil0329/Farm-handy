@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="Nihil">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/crop_yield.css" media="screen">
+  <title>Crop yield prediction</title>
+</head>
+<body class="backpic">
+  <ul>
+      <li><a href="home.html">Home</a></li>
+      <li><a href="sign_up.html">Sign up</a></li>
+      <li><a href="crop_yield.html">Crop prediction</a></li>
+      <li class ="listyle" style="float:right"><a>FARM HANDY</a></li>
+  </ul>
+  <div class="boxing">
+    <div class="containers">
+      <div class="inner1">
+        <h3>Select Season</h3>
+        <select name="stops" required="required">
+            <option value="0">Summer</option>
+            <option value="1">Autumn</option>
+            <option value="2">Winter</option>
+            <option value="3">Rain</option>
+            <option value="4">Spring</option>
+        </select>
+      </div>
+    </div>
+    <div class="containers">
+      <div class="inner1">
+        <h3>Select Crop</h3>
+        <select name="stops" required="required">
+            <option value="0">Wheat</option>
+            <option value="1">Paddy</option>
+            <option value="2">Millet</option>
+            <option value="3">Cotton</option>
+            <option value="4">Sugarcane</option>
+        </select>
+      </div>
+    </div>
+    <div class="containers">
+      <div class="inner1">
+        <h3>Select Soiltype</h3> 
+          <select name="stops" required="required">
+            <option value="0">Alluvial</option>
+            <option value="1">Black</option>
+            <option value="2">Laterite</option>
+            <option value="3">Arid</option>
+            <option value="4">Mountain or forest</option>
+        </select> 
+      </div>
+    </div>
+    <div align="center">
+      <button type="submit" class="button"><h5>submit</h5></button>
+      <br>
+      <br>
+    </div>
+    <div class="smallbox" align="left">
+      <h4 align="center">predicted text</h4>
+    </div>
+  </div>
+</body>
+</html>
