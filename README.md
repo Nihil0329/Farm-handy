@@ -13,4 +13,4 @@ To change the design and style of the webpage:
 Open the relevant css file and proceed with the required changes in it.
 
 
-![Uploading Screenshot (49).png…]()
+![Screenshot (49)](https://user-images.githubusercontent.com/98571886/159032461-85715919-6e5a-4f79-a01f-b8e3e50d99d2.png)
