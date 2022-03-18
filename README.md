@@ -12,3 +12,5 @@ After adding it to the system click on the home.html file to execute as webpage.
 To change the design and style of the webpage:
 Open the relevant css file and proceed with the required changes in it.
 
+
+![Uploading Screenshot (49).png…]()
